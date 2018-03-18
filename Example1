@@ -1,9 +1,0 @@
-# include <stido.h>
-void S()
-{
-     printf("hello world");
-}
-int main(int argc,char**argv){
-     S();
-     return 0;
-}
